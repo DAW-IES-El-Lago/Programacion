@@ -1,6 +1,5 @@
 # Programación en Java - Asignatura de DAW
 
-![Logo de Java](https://logowik.com/content/uploads/images/java1655.logowik.com.webp)
 
 Este repositorio está dedicado a la asignatura de Programación en Java del módulo de Desarrollo de Aplicaciones Web (DAW) en el IES El Lago. Aquí encontrarás recursos y contenido relacionado con los fundamentos de la programación orientada a objetos (POO), programación básica y temas avanzados hasta interfaces, JDBC, ficheros, etc.
 
